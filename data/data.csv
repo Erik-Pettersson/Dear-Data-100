@@ -1,0 +1,101 @@
+﻿Date,Time,Drink,Type,Container
+08/11/2025,19:00,Beer,Alcohol,Glass
+01/11/2025,20:00,Cider,Alcohol,Glass
+31/10/2025,21:00,Cider,Alcohol,Can
+25/10/2025,21:00,Cider,Alcohol,Glass
+12/11/2025,09:00,Water,Water,Water Bottle
+11/11/2025,12:00,Water,Water,Water Bottle
+10/11/2025,11:00,Water,Water,Water Bottle
+10/11/2025,16:00,Water,Water,Water Bottle
+09/11/2025,11:00,Water,Water,Water Bottle
+09/11/2025,17:00,Water,Water,Water Bottle
+08/11/2025,15:00,Water,Water,Water Bottle
+07/11/2025,12:00,Water,Water,Water Bottle
+07/11/2025,17:00,Water,Water,Water Bottle
+06/11/2025,11:00,Water,Water,Water Bottle
+06/11/2025,17:00,Water,Water,Water Bottle
+05/11/2025,09:00,Water,Water,Water Bottle
+04/11/2025,12:00,Water,Water,Water Bottle
+04/11/2025,19:00,Water,Water,Water Bottle
+03/11/2025,11:00,Water,Water,Water Bottle
+03/11/2025,16:00,Water,Water,Water Bottle
+02/11/2025,12:00,Water,Water,Water Bottle
+01/11/2025,13:00,Water,Water,Water Bottle
+31/10/2025,12:00,Water,Water,Water Bottle
+31/10/2025,18:00,Water,Water,Water Bottle
+30/10/2025,11:00,Water,Water,Water Bottle
+30/10/2025,17:00,Water,Water,Water Bottle
+29/10/2025,09:00,Water,Water,Water Bottle
+29/10/2025,19:00,Water,Water,Water Bottle
+28/10/2025,12:00,Water,Water,Water Bottle
+27/10/2025,11:00,Water,Water,Water Bottle
+27/10/2025,16:00,Water,Water,Water Bottle
+26/10/2025,11:00,Water,Water,Water Bottle
+26/10/2025,17:00,Water,Water,Water Bottle
+25/10/2025,12:00,Water,Water,Water Bottle
+24/10/2025,11:00,Water,Water,Water Bottle
+23/10/2025,13:00,Water,Water,Water Bottle
+22/10/2025,09:00,Water,Water,Water Bottle
+22/10/2025,17:00,Water,Water,Water Bottle
+22/10/2025,20:00,Water,Water,Water Bottle
+21/10/2025,13:00,Water,Water,Water Bottle
+21/10/2025,18:00,Water,Water,Water Bottle
+20/10/2025,11:00,Water,Water,Water Bottle
+06/11/2025,08:00,Latte,Caffeine,Plastic Cup
+26/10/2025,14:00,Latte,Caffeine,Plastic Cup
+12/11/2025,13:00,Protein Shake,Shake,Plastic Bottle
+10/11/2025,13:00,Protein Shake,Shake,Plastic Bottle
+07/11/2025,14:00,Protein Shake,Shake,Plastic Bottle
+05/11/2025,13:00,Protein Shake,Shake,Plastic Bottle
+03/11/2025,13:00,Protein Shake,Shake,Plastic Bottle
+31/10/2025,14:00,Protein Shake,Shake,Plastic Bottle
+29/10/2025,13:00,Protein Shake,Shake,Plastic Bottle
+27/10/2025,13:00,Protein Shake,Shake,Plastic Bottle
+24/10/2025,13:00,Protein Shake,Shake,Plastic Bottle
+22/10/2025,13:00,Protein Shake,Shake,Plastic Bottle
+21/10/2025,15:00,Protein Shake,Shake,Plastic Bottle
+20/10/2025,13:00,Protein Shake,Shake,Plastic Bottle
+09/11/2025,14:00,Iced Tea,Soda,Plastic Bottle
+30/10/2025,14:00,Lemonade,Soda,Plastic Bottle
+24/10/2025,10:00,Lemonade,Soda,Plastic Bottle
+11/11/2025,09:00,Coffee,Caffeine,Mug
+08/11/2025,10:00,Cappuccino,Caffeine,Mug
+05/11/2025,15:00,Cappuccino,Caffeine,Mug
+04/11/2025,09:00,Cappuccino,Caffeine,Mug
+02/11/2025,15:00,Mint Tea,Caffeine,Mug
+01/11/2025,10:00,Latte,Caffeine,Mug
+30/10/2025,08:00,Cappuccino,Caffeine,Mug
+28/10/2025,09:00,Cappuccino,Caffeine,Mug
+25/10/2025,10:00,Latte,Caffeine,Mug
+24/10/2025,16:00,Green Tea,Caffeine,Mug
+09/11/2025,20:00,Hot Chocolate,Chocolate,Mug
+06/11/2025,20:00,Tea,Tea,Mug
+26/10/2025,20:00,Peppermint Tea,Tea,Mug
+04/11/2025,15:00,Kombucha,Soda,Can
+08/11/2025,13:00,Orange Juice,Juice,Glass
+02/11/2025,09:00,Smoothie,Juice,Glass
+26/10/2025,09:00,Orange Juice,Juice,Glass
+11/11/2025,19:00,Water,Water,Glass
+08/11/2025,22:00,Water,Water,Glass
+02/11/2025,19:00,Water,Water,Glass
+28/10/2025,18:00,Water,Water,Glass
+27/10/2025,19:00,Sparkling Water,Water,Glass
+25/10/2025,18:00,Water,Water,Glass
+24/10/2025,19:00,Water,Water,Glass
+20/10/2025,20:00,Sparkling Water,Water,Glass
+12/11/2025,15:00,Huel Energy,Caffeine,Can
+10/11/2025,08:00,Red Bull,Caffeine,Can
+07/11/2025,09:00,Tenzing Energy,Caffeine,Can
+03/11/2025,08:00,Monster Zero,Caffeine,Can
+31/10/2025,09:00,Huel Energy,Caffeine,Can
+29/10/2025,15:00,Tenzing Energy,Caffeine,Can
+27/10/2025,08:00,Huel Energy,Caffeine,Can
+23/10/2025,11:00,Tenzing Energy,Caffeine,Can
+20/10/2025,09:00,Huel Energy,Caffeine,Can
+11/11/2025,15:00,Sprite,Soda,Can
+06/11/2025,14:00,Coke Zero,Soda,Can
+01/11/2025,16:00,Ice Tea,Soda,Can
+28/10/2025,14:00,Diet Coke,Soda,Can
+25/10/2025,14:00,Coke Zero,Soda,Can
+20/10/2025,16:00,Ice Tea,Soda,Can
+05/11/2025,18:00,Sparkling Water,Water,Glass
